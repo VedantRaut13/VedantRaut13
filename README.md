@@ -10,6 +10,7 @@ I focus on transforming operational data into business insights that improve per
 🎓 MSc in Business Analytics (University of Essex, UK) – Merit!
 
 💼 Professional Experience
+
 🔹 Consultant | LTIMindtree (Feb 2022 – Sep 2024)
 
 Improved JD Edwards system stability by 12% by resolving database locks and optimizing SQL processes.
