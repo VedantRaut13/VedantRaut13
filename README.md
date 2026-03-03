@@ -1,6 +1,6 @@
 Hi there 👋 I'm Vedant Raut
 
-📊 Data Analyst | 📈 Business Analytics (UK) | 💻 SQL & Power BI Specialist
+📊 Data Analyst | 📈 Business Analytics (UK) |
 
 👨‍💼 About Me
 
@@ -46,32 +46,6 @@ KPI Analysis.
 Dashboard Reporting.
 Stakeholder Management.
 Root Cause Analysis.
-
-📂 Featured Projects
-🚆 UK Train Rides Analysis | Power BI
-
-🔗 https://github.com/VedantRaut13/UK-Train-Rides-Report
-
-Built interactive dashboard using DAX & Power Query.
-Identified busiest route: Manchester–Liverpool (4,628 trips).
-Analyzed 742K revenue, delay & cancellation patterns.
-Peak travel times: 09:00 & 18:00 (Wednesdays).
-
-🍽 Zomato Restaurant Analysis | Excel
-
-🔗 https://github.com/VedantRaut13/Excel
-
-Analyzed 9,551 restaurants across 15+ countries.
-Built Power Pivot model with slicers & dashboards.
-Identified avg rating (2.6/5) & avg cost (₹1.2K).
-
-🛒 Superstore Sales Analysis | Power BI
-
-🔗 https://github.com/VedantRaut13/SuperStore-Sales-Report
-
-$2.30M Sales | $286K Profit | 12.5% Margin.
-West region top contributor (31%).
-Diagnosed loss in Tables category (-8.56%) due to high discounts.
 
 🏅 Certifications
 
