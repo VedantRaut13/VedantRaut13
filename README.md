@@ -13,21 +13,19 @@ I focus on transforming operational data into business insights that improve per
 
 🔹 Consultant | LTIMindtree (Feb 2022 – Sep 2024)
 
-Improved JD Edwards system stability by 12% by resolving database locks and optimizing SQL processes.
-Reduced critical issue resolution time by 10% through proactive monitoring and RCA.
-Delivered technical reporting solutions aligned with business stakeholders.
+•	Collaborated with business stakeholders, users and functional teams to investigate daily enterprise reports generated from ERP, performing root cause analysis on data discrepancies to ensure accurate and reliable business reporting.
+•	Examined incidents and change request data using Excel and Power BI reports to identify SLA breaches, recurring issues, and resolution time trends to present insights in weekly internal meetings.
 🏆 Super Crew Award – Recognized for ownership and initiative.
 
 🔹 Graduate Engineer Trainee | Vodafone Idea (Jul 2021 – Feb 2022)
 
-Analyzed Core Network KPIs (Call Drop Rate, Call Success Rate, Availability).
-Improved network KPI compliance by 7% via coordination with SNOC teams.
-Enabled data-driven network optimization through Excel reporting.
+•	Prepared and analysed daily core KPI reports using Pivot Tables, tracking metrics such as Call Drop Rate, Call Success Rate, and Network Availability to support performance reporting and operational planning.
+•	Collaborated with cross-functional teams including SNOC, vendors, and internal stakeholders to interpret operational data, resolve network issues, and improve service delivery against KPI targets.
 
 🛠 Technical Skills
 📊 Data Analytics & BI
 
-Power BI (ETL, Power Query, DAX, Data Modeling, Visualization).
+Power BI (ETL, Power Query, DAX, Data Modeling, Visualization, Power BI Service).
 Advanced Excel (Power Pivot, Pivot Tables, Dashboards).
 
 🗄 Databases
